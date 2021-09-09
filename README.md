@@ -3,7 +3,7 @@ It plots Population Scenarious using [HighCharts](https://www.highcharts.com/dem
 
 Built with: [HTML](), [CSS](), [JavaScript](), [Python]()
 
-Demo : [Demo](https://hemant-un-population-js.herokuapp.com/plot.html)
+Demo : [https://hemant-un-population-js.herokuapp.com/plot.html](https://hemant-un-population-js.herokuapp.com/plot.html)
 
 
 ## WHAT IT DOES
