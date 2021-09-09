@@ -12,6 +12,7 @@ export const fetchRegion = async(url) => {
         .then((data) => {
             data = JSON.parse(JSON.stringify(data));
             region = data;
+            console.log(region)
         })
         .catch(error => console.log(error));
 }
